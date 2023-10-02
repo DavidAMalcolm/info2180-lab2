@@ -86,6 +86,7 @@ header h1 {
 header p{
 	margin-top 4px;
 	margin-bottom:38px;
+	color:#FFF;
 }
 
 
@@ -139,6 +140,7 @@ footer{
 footer p {
 	max-width: 1200px;
 	margin: 20px auto;
+	color: #FFF;
 
 }
 
